@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+q_table.json
+q_table_advanced.json
+*.log
+.DS_Store
