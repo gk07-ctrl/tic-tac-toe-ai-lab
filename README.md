@@ -3,6 +3,8 @@
 An interactive lab that compares **classical search (Minimax)** and **reinforcement learning (Q-learning)** in Tic-Tac-Toe.  
 Runs fully offline on low-end hardware (Celeron CPU, 8 GB RAM) with no GPU or cloud dependencies.
 
+Live demo: [https://tic-tac-toe-ai-lab.streamlit.app](https://tic-tac-toe-ai-lab.streamlit.app)
+
 ## Quick start
 
 ```bash
